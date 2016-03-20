@@ -1,0 +1,15 @@
+{
+  "name": "gulp-react-map-styles",
+  "version": "0.0.1",
+  "description": "This is a gulp react-map-styles-plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "react-map-styles"
+  ],
+  "author": "ted",
+  "license": "MIT"
+}
